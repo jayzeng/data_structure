@@ -1,4 +1,2 @@
-data_structure
+Data Structure
 ==============
-
-traditional cs stuff
